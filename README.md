@@ -1,7 +1,3 @@
-Here's the updated README with the repository details:
-
----
-
 # Gobrute - RESTful API Brute-Force Login Script
 
 ## Description
@@ -85,7 +81,3 @@ This command runs the brute-force attempt using:
 Special thanks to the creators of [Hydra](https://github.com/vanhauser-thc/thc-hydra) for the initial inspiration behind the parameters used in this script.
 
 **Disclaimer**: This tool is intended for educational purposes only. Unauthorized use against any system is illegal and unethical. Ensure you have permission before testing any system.
-
---- 
-
-Let me know if you need further customization for your README!
